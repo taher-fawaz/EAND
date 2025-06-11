@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "repo1",
+    "full_name": "testuser/repo1",
+    "private": false,
+    "html_url": "https://github.com/testuser/repo1",
+    "description": "Test repository 1",
+    "language": "Dart",
+    "stargazers_count": 10,
+    "watchers_count": 5,
+    "forks_count": 2,
+    "created_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2023-06-01T00:00:00Z",
+    "owner": {
+      "avatar_url": "https://github.com/avatar1.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "repo2",
+    "full_name": "testuser/repo2",
+    "private": false,
+    "html_url": "https://github.com/testuser/repo2",
+    "description": "Test repository 2",
+    "language": "JavaScript",
+    "stargazers_count": 20,
+    "watchers_count": 8,
+    "forks_count": 5,
+    "created_at": "2023-02-01T00:00:00Z",
+    "updated_at": "2023-07-01T00:00:00Z",
+    "owner": {
+      "avatar_url": "https://github.com/avatar2.png"
+    }
+  }
+]

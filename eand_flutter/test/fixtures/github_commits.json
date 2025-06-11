@@ -1,0 +1,44 @@
+[
+  {
+    "sha": "abc123",
+    "commit": {
+      "message": "First test commit",
+      "author": {
+        "name": "Test Author 1",
+        "email": "test1@example.com",
+        "date": "2023-06-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "avatar_url": "https://github.com/avatar1.png"
+    }
+  },
+  {
+    "sha": "def456",
+    "commit": {
+      "message": "Second test commit",
+      "author": {
+        "name": "Test Author 2",
+        "email": "test2@example.com",
+        "date": "2023-06-02T00:00:00Z"
+      }
+    },
+    "author": {
+      "avatar_url": "https://github.com/avatar2.png"
+    }
+  },
+  {
+    "sha": "ghi789",
+    "commit": {
+      "message": "Third test commit",
+      "author": {
+        "name": "Test Author 3",
+        "email": "test3@example.com",
+        "date": "2023-06-03T00:00:00Z"
+      }
+    },
+    "author": {
+      "avatar_url": "https://github.com/avatar3.png"
+    }
+  }
+]
